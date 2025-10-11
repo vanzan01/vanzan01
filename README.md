@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
 <!--
 **vanzan01/vanzan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
