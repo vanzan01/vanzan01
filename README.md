@@ -85,7 +85,6 @@ I build practical AI developer infrastructure: context engineering, agent orches
 
 - [How I Reached GitHub's Top 0.01%](https://blog.vanzan01.org/posts/2026/how-i-reached-github-top-001-percent/)
 - [The Side Hustle That Mattered: My AI Journey from 2017 to Now](https://blog.vanzan01.org/posts/2026/the-side-hustle-that-mattered/)
-- [From Waterfall to AI: Why 1994 Documentation Discipline Matters Again](https://blog.vanzan01.org/posts/2026/from-waterfall-to-ai/)
 - [Making Your Blog AI-Agent Friendly with llms.txt](https://blog.vanzan01.org/posts/2026/making-your-blog-ai-agent-friendly/)
 - [Whisper Remote: Stay in Flow While Talking to AI](https://blog.vanzan01.org/posts/2026/whisper-remote/)
 
