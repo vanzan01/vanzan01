@@ -1,8 +1,10 @@
-# Nick (vanzan01) 👋
+# Hey, I'm Nick 👋
 
 **Perth, Australia** 🇦🇺 • **AI Toolsmith**
 
 I build practical AI developer infrastructure: context engineering, agent orchestration, and small tools that remove friction.
+
+📖 Want to know more about me and what I'm working on? Check out [my blog](https://blog.vanzan01.org).
 
 > Open-source here is personal work, not client work.
 
