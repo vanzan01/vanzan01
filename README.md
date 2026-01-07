@@ -23,6 +23,8 @@ I build practical AI developer infrastructure: context engineering, agent orches
 
 ## Featured Projects
 
+![Total Stars](https://img.shields.io/github/stars/vanzan01?style=social&label=Total%20Stars)
+
 ### 🧠 Context Engineering & Memory Systems
 - **[cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank)** — Persistent AI memory with visual process maps. VAN/PLAN/CREATIVE lifecycle for structured AI development
 - **[Claude-Code-MindPalace](https://github.com/vanzan01/Claude-Code-MindPalace)** — Never write commit messages again. Auto-checkpoint, auto-squash into professional git history
