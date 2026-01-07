@@ -24,6 +24,7 @@ I build practical AI developer infrastructure: context engineering, agent orches
 ## Featured Projects
 
 ![Total Stars](https://img.shields.io/github/stars/vanzan01?style=social&label=Total%20Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=vanzan01&style=social)
 
 ### 🧠 Context Engineering & Memory Systems
 - **[cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank)** — Persistent AI memory with visual process maps. VAN/PLAN/CREATIVE lifecycle for structured AI development
