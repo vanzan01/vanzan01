@@ -83,7 +83,7 @@ I build practical AI developer infrastructure: context engineering, agent orches
 
 ---
 
-## Latest from the Blog (Coming Soon)
+## Latest from the Blog
 
 - [How I Reached GitHub's Top 0.01%](https://blog.vanzan01.org/posts/2026/how-i-reached-github-top-001-percent/)
 - [The Side Hustle That Mattered: My AI Journey from 2017 to Now](https://blog.vanzan01.org/posts/2026/the-side-hustle-that-mattered/)
