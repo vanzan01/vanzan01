@@ -28,6 +28,9 @@ I build practical AI developer infrastructure: context engineering, agent orches
 ![Total Stars](https://img.shields.io/github/stars/vanzan01?style=social&label=Total%20Stars)
 ![Profile Views](https://komarev.com/ghpvc/?username=vanzan01&style=social)
 
+### 🚀 Agent SDK & Pipelines *(Current Focus)*
+- **[claude-agent-sdk-starter](https://github.com/vanzan01/claude-agent-sdk-starter)** — Pipeline-first framework for building AI applications. Pipelines are the product, UIs are just clients. [Read the blog post](https://blog.vanzan01.org/posts/2026/harnessing-wild-ai/)
+
 ### 🧠 Context Engineering & Memory Systems
 - **[cursor-memory-bank](https://github.com/vanzan01/cursor-memory-bank)** — Persistent AI memory with visual process maps. VAN/PLAN/CREATIVE lifecycle for structured AI development
 - **[Claude-Code-MindPalace](https://github.com/vanzan01/Claude-Code-MindPalace)** — Never write commit messages again. Auto-checkpoint, auto-squash into professional git history
